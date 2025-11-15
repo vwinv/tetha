@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "services": "Services & Solutions",
+    "about": "About Us",
+    "involved": "Get Involved",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "subtitle": "A mark of rigor and excellence, for 30 years",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus. Proin aliquam, magna non condimentum varius, justo mi vulputate urna."
+  },
+  "founder": {
+    "title": "The Founder",
+    "name": "Rama Marie-José DIOP",
+    "description": "Dynamic, rigorous and results-oriented professional, I stand out for my ability to manage complex projects while ensuring harmonious coordination of multidisciplinary teams. With an excellent sense of organization and great adaptability, I combine technical skills, leadership and strategic vision to achieve set objectives.\n\nWith significant experience in managing and supervising technical study projects (buildings, structures, infrastructure), I have developed solid expertise in planning, budget management, execution monitoring and interdisciplinary coordination. My mastery of digital tools and modern project management methods allows me to ensure quality, respect for deadlines and resource optimization.\n\nCurious, committed and passionate about operational excellence, I fully invest in the development of innovative and sustainable solutions in the service of technical and organizational performance."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.\n\nTrusted partners, we co-create experiences that reflect your identity, support your growth and strengthen your presence with your communities.",
+    "seeMore": "See more ->"
+  },
+  "services": {
+    "title": "Services & Solutions",
+    "seeMore": "See more +",
+    "items": [
+      {
+        "title": "Web Design",
+        "description": "Creation of modern, responsive showcase websites optimized for natural SEO."
+      },
+      {
+        "title": "Visual Identity",
+        "description": "Definition of coherent graphic charters aligned with your brands' values and objectives."
+      },
+      {
+        "title": "Digital Strategy",
+        "description": "Custom support to strengthen your online presence and engage your audiences."
+      },
+      {
+        "title": "Maintenance & Support",
+        "description": "Continuous technical monitoring, updates and support to ensure sustainable performance."
+      },
+      {
+        "title": "Application Development",
+        "description": "Design and development of custom web and mobile applications to meet your specific needs."
+      },
+      {
+        "title": "E-commerce & Marketplace",
+        "description": "Complete e-commerce solutions to sell your products online with advanced management tools."
+      },
+      {
+        "title": "Training & Support",
+        "description": "Training sessions and support to master your digital tools and optimize your workflow."
+      },
+      {
+        "title": "Digital Consulting",
+        "description": "Expertise and strategic advice to transform your business and leverage digital technology."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "They trust us to build ambitious projects."
+  },
+  "values": {
+    "title": "Our Values",
+    "text": "Our commitment is based on fundamental values that guide each of our actions: excellence in the quality of our services, constant innovation to meet digital challenges, and transparency in our relationships with our clients",
+    "blocks": [
+      {
+        "title": "Excellence",
+        "description": "We are committed to providing services of the highest quality."
+      },
+      {
+        "title": "Innovation",
+        "description": "We stay at the forefront of technology and digital trends."
+      },
+      {
+        "title": "Transparency",
+        "description": "We prioritize clear and honest communication with our clients."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "open": "Open",
+    "photos": [
+      {
+        "title": "Architecture Project",
+        "image": "photo1.png"
+      },
+      {
+        "title": "Modern Construction",
+        "image": "photo2.png"
+      },
+      {
+        "title": "Interior Design",
+        "image": "photo3.png"
+      },
+      {
+        "title": "Urban Infrastructure",
+        "image": "photo4.png"
+      },
+      {
+        "title": "Technical Innovation",
+        "image": "photo5.png"
+      },
+      {
+        "title": "Operational Excellence",
+        "image": "photo6.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "pageTitle": "Contact Us",
+    "description": "Tell us more about your project.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you{'@'}example.com",
+    "messagePlaceholder": "Briefly describe your needs",
+    "success": "Your message has been sent successfully. We will respond to you as soon as possible.",
+    "error": "An error occurred while sending your message. Please try again.",
+    "emailSubject": "Contact request"
+  },
+  "footer": {
+    "description": "A team dedicated to the success of your digital projects, combining technical expertise and service sense.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "phone": "Phone",
+    "location": "Location",
+    "copyright": "All rights reserved.",
+    "legal": "Legal Notice",
+    "privacy": "Privacy"
+  },
+  "getInvolved": {
+    "title": "Get Involved",
+    "donate": "Make a Donation",
+    "careers": "Careers",
+    "partnership": "Partnership",
+    "supply": "Supply",
+    "start": "Start"
+  }
+}
+

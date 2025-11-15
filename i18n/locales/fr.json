@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "services": "Services & solutions",
+    "about": "Qui sommes nous ?",
+    "involved": "S'impliquer ?",
+    "contact": "Contactez-nous"
+  },
+  "hero": {
+    "subtitle": "Une empreinte de rigueur et d'exigence, depuis 30 ans",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus. Proin aliquam, magna non condimentum varius, justo mi vulputate urna."
+  },
+  "founder": {
+    "title": "La fondatrice",
+    "name": "Rama Marie-José DIOP",
+    "description": "Professionnelle dynamique, rigoureuse et orientée résultats, je me distingue par ma capacité à piloter des projets complexes tout en assurant la coordination harmonieuse d'équipes pluridisciplinaires. Dotée d'un excellent sens de l'organisation et d'une grande adaptabilité, je combine compétences techniques, leadership et vision stratégique pour atteindre les objectifs fixés.\n\nForte d'une expérience significative dans le pilotage et la supervision de projets d'études techniques (bâtiments, ouvrages d'art, infrastructures), j'ai développé une expertise solide en planification, gestion budgétaire, suivi d'exécution et coordination interdisciplinaire. Ma maîtrise des outils numériques et des méthodes modernes de gestion de projet me permet d'assurer la qualité, le respect des délais et l'optimisation des ressources.\n\nCurieuse, engagée et passionnée par l'excellence opérationnelle, je m'investis pleinement dans le développement de solutions innovantes et durables au service de la performance technique et organisationnelle."
+  },
+  "about": {
+    "title": "Qui sommes nous ?",
+    "description": "Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.\n\nPartenaires de confiance, nous co-construisons des expériences qui reflètent votre identité, soutiennent votre croissance et renforcent votre présence auprès de vos communautés.",
+    "seeMore": "Voir plus ->"
+  },
+  "services": {
+    "title": "Services & Solutions",
+    "seeMore": "Voir plus +",
+    "items": [
+      {
+        "title": "Conception de sites web",
+        "description": "Création de sites vitrines modernes, responsives et optimisés pour le référencement naturel."
+      },
+      {
+        "title": "Identité visuelle",
+        "description": "Définition de chartes graphiques cohérentes alignées avec les valeurs et objectifs de vos marques."
+      },
+      {
+        "title": "Stratégie digitale",
+        "description": "Accompagnement sur mesure pour renforcer votre présence en ligne et engager vos audiences."
+      },
+      {
+        "title": "Maintenance & support",
+        "description": "Suivi technique continu, mises à jour et support pour garantir des performances durables."
+      },
+      {
+        "title": "Développement d'applications",
+        "description": "Conception et développement d'applications web et mobiles sur mesure pour répondre à vos besoins spécifiques."
+      },
+      {
+        "title": "E-commerce & marketplace",
+        "description": "Solutions e-commerce complètes pour vendre vos produits en ligne avec des outils de gestion avancés."
+      },
+      {
+        "title": "Formation & accompagnement",
+        "description": "Sessions de formation et accompagnement pour maîtriser vos outils digitaux et optimiser votre workflow."
+      },
+      {
+        "title": "Consulting digital",
+        "description": "Expertise et conseils stratégiques pour transformer votre activité et tirer parti du numérique."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Nos partenaires",
+    "subtitle": "Ils nous font confiance pour bâtir des projets ambitieux."
+  },
+  "values": {
+    "title": "Nos Valeurs",
+    "text": "Notre engagement repose sur des valeurs fondamentales qui guident chacune de nos actions : l'excellence dans la qualité de nos services, l'innovation constante pour répondre aux défis du numérique, et la transparence dans nos relations avec nos clients",
+    "blocks": [
+      {
+        "title": "Excellence",
+        "description": "Nous nous engageons à fournir des services de la plus haute qualité."
+      },
+      {
+        "title": "Innovation",
+        "description": "Nous restons à la pointe de la technologie et des tendances digitales."
+      },
+      {
+        "title": "Transparence",
+        "description": "Nous privilégions une communication claire et honnête avec nos clients."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallerie",
+    "open": "Ouvrir",
+    "photos": [
+      {
+        "title": "Projet Architecture",
+        "image": "photo1.png"
+      },
+      {
+        "title": "Construction Moderne",
+        "image": "photo2.png"
+      },
+      {
+        "title": "Design Intérieur",
+        "image": "photo3.png"
+      },
+      {
+        "title": "Infrastructure Urbaine",
+        "image": "photo4.png"
+      },
+      {
+        "title": "Innovation Technique",
+        "image": "photo5.png"
+      },
+      {
+        "title": "Excellence Opérationnelle",
+        "image": "photo6.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "pageTitle": "Contactez-nous",
+    "description": "Dites-nous en plus sur votre projet.",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "sending": "Envoi en cours...",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "vous{'@'}exemple.com",
+    "messagePlaceholder": "Décrivez brièvement votre besoin",
+    "success": "Votre message a été envoyé avec succès. Nous vous répondrons dans les plus brefs délais.",
+    "error": "Une erreur est survenue lors de l'envoi de votre message. Veuillez réessayer.",
+    "emailSubject": "Prise de contact"
+  },
+  "footer": {
+    "description": "Une équipe dédiée à la réussite de vos projets digitaux, alliant expertise technique et sens du service.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "copyright": "Tous droits réservés.",
+    "legal": "Mentions légales",
+    "privacy": "Confidentialité"
+  },
+  "getInvolved": {
+    "title": "S'impliquer ?",
+    "donate": "Faire un don",
+    "careers": "Carrières",
+    "partnership": "Partenariat",
+    "supply": "Approvisionnement",
+    "start": "Commencer"
+  }
+}
+
