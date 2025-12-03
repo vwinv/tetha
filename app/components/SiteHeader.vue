@@ -1,13 +1,13 @@
 <template>
   <header class="w-full bg-white text-slate-900 border-b border-slate-200 py-0.5">
     <div class="w-full px-3 sm:px-4 lg:px-6 h-12 flex items-center justify-between">
-      <NuxtLink to="/" class="flex items-center ml-2">
-        <img :src="logoUrl" alt="Logo" class="h-10 w-auto sm:h-12" />
+      <NuxtLink :to="getLocalizedPath('/')" class="flex items-center ml-2">
+        <img :src="logoUrl" alt="Logo" class="h-10 w-auto sm:h-12" loading="eager" fetchpriority="high" />
       </NuxtLink>
 
       <nav class="hidden md:flex items-center text-base font-semibold gap-6">
-        <NuxtLink :to="getLocalizedPath('/#services')" class="hover:text-slate-600">{{ $t('nav.services') }}</NuxtLink>
-        <NuxtLink :to="getLocalizedPath('/#about')" class="hover:text-slate-600">{{ $t('nav.about') }}</NuxtLink>
+        <NuxtLink :to="getLocalizedPath('/allservices')" class="hover:text-slate-600">{{ $t('nav.services') }}</NuxtLink>
+        <NuxtLink :to="getLocalizedPath('/about')" class="hover:text-slate-600">{{ $t('nav.about') }}</NuxtLink>
         <NuxtLink :to="getLocalizedPath('/get-involved')" class="hover:text-slate-600">{{ $t('nav.involved') }}</NuxtLink>
         <div class="inline-flex items-center rounded-full ring-1 ring-slate-200 overflow-hidden">
           <button 
@@ -26,7 +26,7 @@
             EN
           </button>
         </div>
-        <NuxtLink :to="getLocalizedPath('/contact')" class="inline-flex items-center rounded-full bg-[#5C01C2] text-white px-4 py-2 text-sm hover:opacity-95">
+        <NuxtLink :to="`${getLocalizedPath('/contact')}?accordion=2`" class="inline-flex items-center rounded-full bg-[#5C01C2] text-white px-4 py-2 text-sm hover:opacity-95">
           {{ $t('nav.contact') }}
         </NuxtLink>
       </nav>
@@ -67,7 +67,7 @@
               EN
             </button>
           </div>
-          <NuxtLink :to="getLocalizedPath('/contact')" class="inline-flex items-center rounded-full bg-[#5C01C2] text-white px-2 py-1 text-sm hover:opacity-95" @click="close()">
+          <NuxtLink :to="`${getLocalizedPath('/contact')}?accordion=2`" class="inline-flex items-center rounded-full bg-[#5C01C2] text-white px-2 py-1 text-sm hover:opacity-95" @click="close()">
             {{ $t('nav.contact') }}
           </NuxtLink>
         </div>

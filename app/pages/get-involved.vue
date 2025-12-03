@@ -21,7 +21,7 @@
 
     <section class="relative py-10">
       <div class="relative mx-auto w-full max-w-[1100px] px-2 sm:px-3 lg:px-4">
-        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2">
           <div
             v-for="(block, index) in getInvolvedBlocks"
             :key="index"
@@ -32,17 +32,19 @@
                 :src="blockImages[index]"
                 :alt="block.title"
                 class="h-full w-full object-cover"
+                loading="lazy"
               />
             </div>
             <div class="flex flex-1 flex-col gap-4 p-5">
-              <h3 class="text-lg font-bold text-slate-900">
+              <h3 class="text-xl sm:text-2xl font-bold text-slate-900">
                 {{ block.title }}
               </h3>
-              <button
+              <NuxtLink
+                :to="getContactLink(block.title)"
                 class="inline-flex items-center justify-center rounded-full bg-[#5C01C2] px-4 py-3 text-sm font-semibold text-white transition hover:opacity-90"
               >
                 {{ $t('getInvolved.start') }}
-              </button>
+              </NuxtLink>
             </div>
           </div>
         </div>
@@ -68,17 +70,43 @@ const pageBackgroundStyle = computed(() => ({
   backgroundAttachment: 'fixed'
 }))
 
-const { t } = useI18n()
+const { t, locale } = useI18n()
 
 const blockImages = [serviceImage4, serviceImage7, bgImage, batImage]
 
 const getInvolvedBlocks = computed(() => {
   return [
-    { title: t('getInvolved.donate'), image: 'service4.png' },
     { title: t('getInvolved.careers'), image: 'service7.png' },
     { title: t('getInvolved.partnership'), image: 'bg.png' },
-    { title: t('getInvolved.supply'), image: 'bat.png.png' }
   ]
 })
+
+// Fonction pour obtenir le chemin localisé (comme dans SiteHeader.vue)
+const getLocalizedPath = (path: string) => {
+  if (locale.value === 'fr') {
+    return path
+  } else {
+    return `/en${path}`
+  }
+}
+
+// Fonction pour obtenir le lien vers la page contact avec l'accordéon approprié
+const getContactLink = (title: string) => {
+  const careersText = t('getInvolved.careers')
+  const partnershipText = t('getInvolved.partnership')
+  
+  // Obtenir le chemin localisé
+  const basePath = getLocalizedPath('/contact')
+  
+   if (title === careersText) {
+    // "Carrières" → accordéon 1
+    return `${basePath}?accordion=0`
+  } else if (title === partnershipText) {
+    // "Partenariat" → accordéon 2
+    return `${basePath}?accordion=1`
+  }
+  
+  return basePath
+}
 </script>
 

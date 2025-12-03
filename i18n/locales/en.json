@@ -1,60 +1,188 @@
 {
   "nav": {
     "services": "Services & Solutions",
-    "about": "About Us",
+    "about": "Who we are ?",
     "involved": "Get Involved",
     "contact": "Contact Us"
   },
   "hero": {
     "subtitle": "A mark of rigor and excellence, for 30 years",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus. Proin aliquam, magna non condimentum varius, justo mi vulputate urna."
+    "description": "For three decades, our company has put its expertise at the service of ambitious projects, combining precision, durability and operational excellence. Each construction site is approached with a keen attention to detail, proven technical mastery and a constant commitment to quality.Our priority: building solid, reliable and sustainable structures that reflect our passion for the trade and the trust our clients have placed in us for 30 years."
   },
   "founder": {
     "title": "The Founder",
     "name": "Rama Marie-José DIOP",
-    "description": "Dynamic, rigorous and results-oriented professional, I stand out for my ability to manage complex projects while ensuring harmonious coordination of multidisciplinary teams. With an excellent sense of organization and great adaptability, I combine technical skills, leadership and strategic vision to achieve set objectives.\n\nWith significant experience in managing and supervising technical study projects (buildings, structures, infrastructure), I have developed solid expertise in planning, budget management, execution monitoring and interdisciplinary coordination. My mastery of digital tools and modern project management methods allows me to ensure quality, respect for deadlines and resource optimization.\n\nCurious, committed and passionate about operational excellence, I fully invest in the development of innovative and sustainable solutions in the service of technical and organizational performance."
+    "description": "Dynamic, rigorous and results-oriented professional, I stand out for my ability to manage complex projects while ensuring harmonious coordination of multidisciplinary teams. With an excellent sense of organization and great adaptability, I combine technical skills, leadership and strategic vision to achieve set objectives.\n\nWith significant experience in managing and supervising technical study projects (buildings, structures, infrastructure), I have developed solid expertise in planning, budget management, execution monitoring and interdisciplinary coordination. My mastery of digital tools and modern project management methods allows me to ensure quality, respect for deadlines and resource optimization.\n\nCurious, committed and passionate about operational excellence, I fully invest in the development of innovative and sustainable solutions in the service of technical and organizational performance.",
+    "description1": "Ambitious, rigorous and performance-oriented professional, I stand out through a proven ability to manage large-scale projects while ensuring harmonious coordination of multidisciplinary teams. Thanks to a strong sense of organization, excellent priority management and great adaptability, I have developed a structured approach that combines rigor, methodology and strategic vision. This approach allows me to efficiently lead the projects entrusted to me, anticipate operational risks and ensure smooth communication with the various stakeholders. My background has allowed me to acquire in-depth expertise in the design, planning and management of technical study projects, covering various areas such as buildings, structures and infrastructure. I have contributed to complex projects requiring advanced skills in technical analysis, strategic planning, budget management, interdisciplinary coordination and rigorous execution monitoring. My role has also led me to collaborate with architects, engineers, design offices, external service providers, as well as administrative authorities, which has allowed me to develop strong interpersonal skills and a real ability to unite around common objectives.",
+    "description2": "My mastery of digital tools, business software and contemporary project management methodologies (including risk management, strategic prioritization, dashboard design, analytical reporting and resource optimization) allows me to constantly add value at every stage of the project cycle. I pay particular attention to technical compliance, deliverable quality, strict respect for deadlines and cost rationalization, while guaranteeing a solutions and results-oriented approach. Driven by an intellectual curiosity that encourages continuous learning, I fully engage in innovation, digitalization and sustainability initiatives. I place great importance on continuous process improvement, technical and sector monitoring, as well as the development of modern solutions adapted to operational and environmental challenges. I also give an essential place to collaboration, skill sharing and the creation of a stimulating professional environment, promoting collective performance and self-transcendence. Driven by a deep sense of responsibility and a constant will for excellence, I invest myself with determination in the success of the projects I manage. My goal is to make a significant contribution, based on commitment, transparency, rigor and efficiency, to sustainably support the technical, organizational and strategic performance of the structures I accompany.",
+    "seeMore": "See more ->",
+    "career": {
+      "title": "Career",
+      "description": "Discover the professional and academic background of Rama Marie-José DIOP, founder of THETA Engineering.",
+      "items": [
+        {
+          "poste": "Director",
+          "entreprise": "THETA Engineering",
+          "date": "June 1997 - present",
+          "location": "Dakar Region, Senegal · On-site",
+          "description": "Specialized reinforced concrete engineer, passionate about technical challenges and innovative solutions, I lead the structural engineering department at THETA Engineering. My expertise covers the design and calculation of complex structures, with a constant commitment to safety, durability and performance. My role consists of managing ambitious projects, from initial analysis to completion, ensuring team coordination and client satisfaction. I strive to propose tailor-made technical solutions that respect standards, deadlines and budgets."
+        },
+        {
+          "poste": "Project Manager & Consultant",
+          "entreprise": "IFC - International Finance Corporation",
+          "date": "2008 - 2024",
+          "location": "Dakar Region, Senegal · On-site",
+          "description": "I also had the honor of collaborating with IFC – International Finance Corporation as a Project Manager & Consultant, where I participated in managing internal renovation projects and acted as a structural consultant for IFC's new regional headquarters in Senegal. I fully invest myself to ensure safe, sustainable and standards-compliant structures, while ensuring quality, deadlines and costs."
+        },
+        {
+          "poste": "Consultant",
+          "entreprise": "Adjaye Associates",
+          "date": "2019 - June 2022",
+          "location": "Dakar Region, Senegal · On-site",
+          "description": "As part of the construction project for IFC's regional office in Dakar, Senegal, I was a consultant for Adjaye Associates to support and supervise the entire mission related to the delegated project. My responsibilities included: strategic and operational support to the project owner, coordination between technical and institutional partners, monitoring of legal and contractual aspects related to the delegation of project ownership, control of compliance with IFC international standards and local requirements."
+        },
+        {
+          "poste": "Senior Project Manager",
+          "entreprise": "The World Bank Group",
+          "date": "August 2008 - May 2019",
+          "location": "Dakar Region, Senegal · On-site",
+          "description": "Management of various renovation projects for IFC and local requirements"
+        },
+        {
+          "poste": "Construction Engineer",
+          "entreprise": "Compagnie Sahélienne d'Entreprises",
+          "date": "July 1986 - 1988",
+          "location": "Dakar Region, Senegal · On-site",
+          "description": "I worked as a site engineer on projects in Dakar. IFC renovation projects and local requirements."
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "description": "Discover the academic background and education of Rama Marie-José DIOP, founder of THETA Engineering.",
+      "items": [
+        {
+          "ecole": "CHEC Centre des Hautes Etudes de la Construction",
+          "option": "CHEBAP Option, Reinforced and Prestressed Concrete",
+          "date": "1989"
+        },
+        {
+          "ecole": "EPF Engineering School",
+          "option": "Civil Engineering Structures",
+          "date": "1986"
+        }
+      ]
+    }
   },
   "about": {
-    "title": "About Us",
-    "description": "Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.\n\nTrusted partners, we co-create experiences that reflect your identity, support your growth and strengthen your presence with your communities.",
+    "title": "Who we are ?",
+    "description": "We are an engineering firm committed to offering reliable, innovative and sustainable technical solutions. Thanks to our multidisciplinary expertise, we support our clients at every stage: from structural studies (reinforced concrete, steel frame, wood) to rigorous construction supervision, including complete project management.\n\nWe also work in interior decoration and landscaping to create functional, aesthetic spaces adapted to their uses. Our mission is to guarantee the quality, safety and performance of each structure, while respecting deadlines and current standards.\n\nWith a qualified and passionate team, we build sustainable projects that combine technique, design and excellence.",
     "seeMore": "See more ->"
   },
   "services": {
     "title": "Services & Solutions",
     "seeMore": "See more +",
+    "notFound": "Service not found",
     "items": [
       {
-        "title": "Web Design",
-        "description": "Creation of modern, responsive showcase websites optimized for natural SEO."
+        "id": 1,
+        "title": "Structural Studies — Reinforced Concrete",
+        "description": "Sizing, regulatory compliance and design for durability.",
+        "text": "We carry out structural studies in reinforced concrete ensuring the safety, compliance and durability of your structures. Our engineers perform rigorous calculations, propose optimized constructive solutions and produce the execution plans necessary for the smooth running of the construction site.Our services: ",
+        "list": [
+          "Stability calculations and sizing (columns, beams, slabs, foundations)",
+          "Numerical modeling and verification under real loads",
+          "Writing calculation notes and reinforcement plans",
+          "Economic and technical-economic optimization of constructive solutions",
+          "Technical monitoring during construction phase and response to execution situations"
+        ]
       },
       {
-        "title": "Visual Identity",
-        "description": "Definition of coherent graphic charters aligned with your brands' values and objectives."
+        "id": 2,
+        "title": "Structural Studies — Steel Frame",
+        "description": "Design, rationalization and control for high-performance steel structures.",
+        "text": "We design high-performance steel frames adapted to architectural and industrial constraints. From pre-study to final calculation note, we ensure complete treatment of load, assembly and foundation recovery issues. ",
+        "list": [
+          "Preliminary studies and choice of structural solutions (profiles, assemblies)",
+          "Resistance and buckling calculations, verification of assemblies (welded/bolted)",
+          "Writing frame plans, assembly details with parts nomenclatures",
+          "Coordination with workshop production and quality control of manufactured elements ",
+          "Advice on cost/performance optimization and anti-corrosion treatment"
+        ]
       },
       {
-        "title": "Digital Strategy",
-        "description": "Custom support to strengthen your online presence and engage your audiences."
+        "id": 3,
+        "title": "Structural Studies — Wood",
+        "description": "Sizing, regulatory compliance and design for durability.",
+        "list": [
+          "Sizing of wood elements (beams, trusses, columns, decking) and choice of species ",
+          "Structural modeling taking into account creep, shrinkage and hygrothermal interactions",
+          "Design of assemblies (tenons, plates, metal connectors) and constructive details",
+          "Development of frame plans and technical sheets for workshop",
+          "Integration of mixed solutions (wood-metal, wood-concrete) to optimize performance and cost"
+        ]
       },
       {
-        "title": "Maintenance & Support",
-        "description": "Continuous technical monitoring, updates and support to ensure sustainable performance."
+        "id": 4,
+        "title": "Construction Supervision",
+        "description": "Ensuring quality, compliance with deadlines and technical compliance.",
+        "text": "Our Construction Supervision service guarantees rigorous management of each stage of your project, from site opening to final acceptance. We ensure precise operational management to guarantee execution quality, schedule compliance and cost control.",
+        "list": [
+          "Weekly monitoring of work progress",
+          "Coordination of teams and technical stakeholders",
+          "Verification of compliance with plans, standards and HSE rules",
+          "Management of unforeseen events and solution optimization",
+          "Regular reporting for complete site visibility"
+        ],
+        "text2": "We provide complete, transparent and structured support to guarantee the success of your project under the best conditions. "
       },
       {
-        "title": "Application Development",
-        "description": "Design and development of custom web and mobile applications to meet your specific needs."
+        "id": 5,
+        "title": "Project Management – Frames",
+        "description": "Planning, coordination and technical control of structures.",
+        "text": "We handle project management related to metal and wood frames, integrating the technical, regulatory and economic imperatives specific to the construction sector.",
+        "list": [
+          "Preliminary studies and needs analysis",
+          "Coordination between engineers, architects and frame companies",
+          "Planning of execution phases and schedule management",
+          "Workshop manufacturing monitoring and quality control",
+          "On-site assembly supervision",
+          "Risk management and structural optimization",
+          "Final control and acceptance of structures"
+        ],
+        "text2": "Thanks to a methodical approach and an in-depth understanding of frame systems, we guarantee solidity, precision and durability on each project."
       },
       {
-        "title": "E-commerce & Marketplace",
-        "description": "Complete e-commerce solutions to sell your products online with advanced management tools."
+        "id": 6,
+        "title": "Interior Decoration",
+        "description": "Creation of functional, aesthetic spaces adapted to your uses.",
+        "text": "We design and carry out interior decoration projects combining design, ergonomics and visual identity. Our objective: transform your spaces into harmonious, inspiring and fully functional places.",
+        "list": [
+          "Analysis of needs, uses and technical constraints",
+          "Design of moodboards, 2D plans and 3D renderings",
+          "Selection of materials, textures, colors and furniture",
+          "Optimization of lighting and volumes",
+          "Monitoring of realization and coordination of craftsmen",
+          "Installation of the final decoration"
+        ],
+        "text2": "Our approach combines artistic sense and technical mastery of building to guarantee a coherent, sustainable and tailor-made result."
       },
       {
-        "title": "Training & Support",
-        "description": "Training sessions and support to master your digital tools and optimize your workflow."
-      },
-      {
-        "title": "Digital Consulting",
-        "description": "Expertise and strategic advice to transform your business and leverage digital technology."
+        "id": 7,
+        "title": "Landscaping",
+        "description": "Design and realization of durable and aesthetic outdoor spaces",
+        "text": "Our landscaping service structures and enhances your outdoor spaces by combining environmental requirements, functionality and aesthetics.",
+        "list": [
+          "Development studies and landscape design",
+          "Integration of plants, materials and outdoor furniture",
+          "Creation of gardens, terraces, paths, relaxation areas...",
+          "Installation of irrigation systems and outdoor lighting",
+          "Monitoring and coordination of works",
+          "Maintenance and upkeep of created spaces"
+        ],
+        "text2": "We design durable, pleasant outdoor environments perfectly integrated into their architectural environment."
       }
+      
     ]
   },
   "partners": {
@@ -63,19 +191,19 @@
   },
   "values": {
     "title": "Our Values",
-    "text": "Our commitment is based on fundamental values that guide each of our actions: excellence in the quality of our services, constant innovation to meet digital challenges, and transparency in our relationships with our clients",
+    "text": "Our values guide our work and reflect our commitment to quality, trust and customer satisfaction.",
     "blocks": [
       {
-        "title": "Excellence",
-        "description": "We are committed to providing services of the highest quality."
+        "title": "Quality & Excellence",
+        "description": "Solid and well-crafted constructions, with attention to every detail."
       },
       {
-        "title": "Innovation",
-        "description": "We stay at the forefront of technology and digital trends."
+        "title": "Reliability & Respect for Deadlines",
+        "description": "Keeping our commitments and delivering your projects on time, without surprises."
       },
       {
-        "title": "Transparency",
-        "description": "We prioritize clear and honest communication with our clients."
+        "title": "Innovation & Sustainability",
+        "description": "Modern and eco-responsible solutions to build the future."
       }
     ]
   },
@@ -84,28 +212,39 @@
     "open": "Open",
     "photos": [
       {
-        "title": "Architecture Project",
+        "title": "HOTELS",
+        "description": "(ONOMO LOME)",
         "image": "photo1.png"
       },
       {
-        "title": "Modern Construction",
+        "title": "HOSPITALS",
+        "description": "Primary and Reference Health Centers\nMaternity Hospital of Ziguinchor\nFann Children's Cardiology Hospital by CUOMO Foundation",
         "image": "photo2.png"
       },
       {
-        "title": "Interior Design",
+        "title": "OFFICE BUILDINGS",
+        "description": "International Finance Corporation (IFC)",
         "image": "photo3.png"
       },
       {
-        "title": "Urban Infrastructure",
-        "image": "photo4.png"
+        "title": "BANKS",
+        "description": "BCEAO Branch in St-Louis\nVarious BICIS Branches in Senegal",
+        "image": "photo1.png"
       },
       {
-        "title": "Technical Innovation",
-        "image": "photo5.png"
+        "title": "PRIVATE RESIDENCES",
+        "description": "GUEYE VILLA in Ngor Diarama\nWOURY DIALLO VILLA in Diamalaye",
+        "image": "photo1.png"
       },
       {
-        "title": "Operational Excellence",
-        "image": "photo6.png"
+        "title": "MARKETS IN LOME",
+        "description": "Steel Frame and Reinforced Concrete Structure",
+        "image": "photo1.png"
+      },
+      {
+        "title": "RENOVATION OF OLD BUILDINGS",
+        "description": "On behalf of AMSA",
+        "image": "photo1.png"
       }
     ]
   },
@@ -123,7 +262,65 @@
     "messagePlaceholder": "Briefly describe your needs",
     "success": "Your message has been sent successfully. We will respond to you as soon as possible.",
     "error": "An error occurred while sending your message. Please try again.",
-    "emailSubject": "Contact request"
+    "emailSubject": "Contact request",
+    "formTitles": {
+      "careers": "Careers",
+      "partnership": "Become a Partner",
+      "contact": "Contact"
+    },
+    "fields": {
+      "lastName": "Last Name",
+      "firstName": "First Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Your message here"
+    },
+    "fileLabels": {
+      "cv": "Upload your CV",
+      "motivationLetter": "Upload your Cover Letter"
+    },
+    "fileSupport": "Support .jpg, .png and .svg and zip files",
+    "accordions": {
+      "career": "Interested in a career at THETA Engineering",
+      "partnership": "Become a Partner at THETA Engineering",
+      "other": "Contact Us for various other reasons"
+    },
+    "notFound": "Service not found",
+    "types": [
+      {
+        "type": "quote",
+        "title": "Quote Request",
+        "description": "Get a personalized quote for your project",
+        "icon": "💼",
+        "placeholder": "Describe your project and needs to get a personalized quote",
+        "subject": "Quote Request"
+      },
+      {
+        "type": "support",
+        "title": "Technical Support",
+        "description": "Need technical help or assistance?",
+        "icon": "🔧",
+        "placeholder": "Describe your technical problem or question",
+        "subject": "Technical Support"
+      },
+      {
+        "type": "partnership",
+        "title": "Partnership",
+        "description": "Propose a partnership or collaboration",
+        "icon": "🤝",
+        "placeholder": "Present your partnership or collaboration project",
+        "subject": "Partnership Proposal"
+      },
+      {
+        "type": "other",
+        "title": "Other Request",
+        "description": "Any other request or question",
+        "icon": "📧",
+        "placeholder": "Describe your request or question",
+        "subject": "Other Request"
+      }
+    ]
   },
   "footer": {
     "description": "A team dedicated to the success of your digital projects, combining technical expertise and service sense.",
@@ -137,10 +334,8 @@
   },
   "getInvolved": {
     "title": "Get Involved",
-    "donate": "Make a Donation",
     "careers": "Careers",
     "partnership": "Partnership",
-    "supply": "Supply",
     "start": "Start"
   }
 }

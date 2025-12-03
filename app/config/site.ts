@@ -1,10 +1,8 @@
-export const phonePrimary = '+38 093 984 20 48'
-export const phoneSecondary = '+38 096 852 61 26'
-export const facebookUrl = 'https://www.facebook.com/tetha'
-export const linkedinUrl = 'https://www.linkedin.com/company/tetha'
-export const locationText = 'Dakar/Senegal'
+export const phonePrimary = '+221 78 132 58 31'
+export const facebookUrl = 'https://web.facebook.com/profile.php?id=100068437998683'
+export const linkedinUrl = 'https://www.linkedin.com/company/theta-ing%C3%A9nierie/?viewAsMember=true'
 export const contactEmail = 'contact@tetha.com' //contact@tetha.com
-export const contactAddress = 'Dakar, Sénégal'
+export const contactAddress = 'Cite SIPRES II-Villa n° 248- 2e Etage'
 
 export const heroSubtitle = 'Une empreinte de rigueur et d\'exigence, depuis 30 ans'
 export const heroDescription = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
@@ -80,7 +78,10 @@ export const partnersLogos = [
   'partenaire3.png',
   'partenaire4.png',
   'partenaire5.png',
-  'partenaire6.png'
+  'partenaire6.png',
+  'partenaire7.png',
+  'partenaire8.png',
+  'partenaire9.png'
 ];
 
 export const mainNavigation = [

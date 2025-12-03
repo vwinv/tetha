@@ -4,54 +4,62 @@ import { defineNuxtConfig } from 'nuxt/config'
 export default defineNuxtConfig({
   ssr: false,
   nitro: {
-    preset: 'static'
+    preset: 'static' // Site statique - l'envoi d'emails se fait via API PHP externe
   },
   app: {
     baseURL: '/',
     buildAssetsDir: '/_nuxt/'
   },
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: undefined // Laisser Vite gérer automatiquement les chunks
+        }
+      },
+      chunkSizeWarningLimit: 1000,
+      // Améliorer le traitement des assets
+      assetsInlineLimit: 4096, // Inline les petits assets (< 4KB)
+    },
+    server: {
+      // Timeout pour les assets
+      hmr: {
+        timeout: 30000
+      }
+    },
+    // Optimiser le chargement des images
+    optimizeDeps: {
+      include: []
+    }
+  },
+  experimental: {
+    payloadExtraction: false // Améliore les performances pour les sites statiques
+  },
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
+  runtimeConfig: {
+    // Variables privées (côté serveur uniquement)
+    smtpPassword: process.env.SMTP_PASSWORD || 'nbur xqyp tfzq oinr', // Local par défaut
+    public: {
+      // Variables publiques accessibles côté client
+      mailingPassword: process.env.NUXT_PUBLIC_MAILING_PASSWORD || 'bphe kijp ztyt etqh' // Mot de passe pour l'API mailing (local par défaut)
+    }
+  },
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxtjs/i18n',
     ['nuxt-mail', {
       message: {
-        to: 'contact@tetha.com',
+        to: 'thetaingenierie@gmail.com',
       },
       smtp: {
-        // ⚠️ CONFIGURATION REQUISE : Remplacez par votre serveur SMTP réel
-        // Exemples de configuration :
-        //
-        // Gmail:
-        // host: "smtp.gmail.com",
-        // port: 587,
-        // secure: false,
-        // auth: {
-        //   user: "votre-email@gmail.com",
-        //   pass: "votre-mot-de-passe-application" // Mot de passe d'application Gmail
-        // }
-        //
-        // Outlook/Office365:
-        // host: "smtp.office365.com",
-        // port: 587,
-        // secure: false,
-        // auth: {
-        //   user: "votre-email@outlook.com",
-        //   pass: "votre-mot-de-passe"
-        // }
-        //
-        // Serveur SMTP personnalisé:
-        // host: "smtp.votre-domaine.com",
-        // port: 587,
-        // secure: false, // true pour le port 465
-        // auth: {
-        //   user: "votre-email@votre-domaine.com",
-        //   pass: "votre-mot-de-passe"
-        // }
-        
-        // Configuration temporaire (désactivée pour éviter les erreurs)
-        // Décommentez et configurez ci-dessus selon votre serveur SMTP
+        host: "smtp.gmail.com",
+        port: 587,
+        secure: false,
+        auth: {
+          user: "thetaingenierie@gmail.com",
+          pass: process.env.SMTP_PASSWORD || "nbur xqyp tfzq oinr" // Utilise la variable d'environnement ou la valeur par défaut (local)
+        }
       },
     }],
   ],

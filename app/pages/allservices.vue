@@ -25,9 +25,9 @@
           <div
             v-for="service in services"
             :key="service.title"
-            class="flex min-h-[210px] flex-col overflow-hidden rounded-md bg-white shadow-xl transition hover:-translate-y-2 hover:shadow-2xl"
+            class="flex min-h-[210px] flex-col overflow-hidden bg-white shadow-xl transition hover:-translate-y-2 hover:shadow-2xl"
           >
-            <img :src="service.image" :alt="service.title" class="h-32 w-full object-cover" />
+            <img :src="service.image" :alt="service.title" class="h-32 w-full object-cover" loading="lazy" />
             <div class="flex flex-1 flex-col gap-2 p-4">
               <h3 class="text-xl font-semibold text-slate-900">
                 {{ service.title }}
@@ -35,6 +35,14 @@
               <p class="text-base text-slate-600">
                 {{ service.description }}
               </p>
+              <div class="mt-auto pt-2">
+                <NuxtLink 
+                  :to="`/detailService/${service.id}`"
+                  class="inline-flex items-center justify-center rounded-full border-2 border-[#5C01C2] bg-white px-4 py-2 text-sm font-semibold text-[#5C01C2] transition hover:bg-[#5C01C2] hover:text-white"
+                >
+                  {{ $t('services.seeMore') }}
+                </NuxtLink>
+              </div>
             </div>
           </div>
         </div>
@@ -46,7 +54,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, toRaw } from 'vue'
 import serviceImage1 from '@/assets/images/service1.png'
 import serviceImage2 from '@/assets/images/service2.png'
 import serviceImage3 from '@/assets/images/service3.png'
@@ -71,6 +79,7 @@ const { tm, locale } = useI18n()
 const serviceImages = [serviceImage1, serviceImage2, serviceImage3, serviceImage4, serviceImage5, serviceImage6, serviceImage7, serviceImage8]
 
 interface ServiceItem {
+  id?: number
   title: string
   description: string
 }
@@ -86,6 +95,7 @@ const services = computed(() => {
     if (Array.isArray(servicesItems)) {
       
       return servicesItems.map((service: ServiceItem, idx: number) => ({
+        id: service.id ?? idx + 1,
         title: extractSource(service.title),
         description: extractSource(service.description),
         image: serviceImages[idx] ?? serviceImages[serviceImages.length - 1]

@@ -7,54 +7,185 @@
   },
   "hero": {
     "subtitle": "Une empreinte de rigueur et d'exigence, depuis 30 ans",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus. Proin aliquam, magna non condimentum varius, justo mi vulputate urna."
+    "description": "Depuis trois décennies, notre entreprise met son savoir-faire au service de projets ambitieux, en alliant précision, durabilité et excellence opérationnelle. Chaque chantier est abordé avec un sens aigu du détail, une maîtrise technique éprouvée et un engagement constant envers la qualité.Notre priorité : bâtir des ouvrages solides, fiables et pérennes, qui reflètent notre passion du métier et la confiance que nos clients nous accordent depuis 30 ans."
   },
   "founder": {
     "title": "La fondatrice",
     "name": "Rama Marie-José DIOP",
-    "description": "Professionnelle dynamique, rigoureuse et orientée résultats, je me distingue par ma capacité à piloter des projets complexes tout en assurant la coordination harmonieuse d'équipes pluridisciplinaires. Dotée d'un excellent sens de l'organisation et d'une grande adaptabilité, je combine compétences techniques, leadership et vision stratégique pour atteindre les objectifs fixés.\n\nForte d'une expérience significative dans le pilotage et la supervision de projets d'études techniques (bâtiments, ouvrages d'art, infrastructures), j'ai développé une expertise solide en planification, gestion budgétaire, suivi d'exécution et coordination interdisciplinaire. Ma maîtrise des outils numériques et des méthodes modernes de gestion de projet me permet d'assurer la qualité, le respect des délais et l'optimisation des ressources.\n\nCurieuse, engagée et passionnée par l'excellence opérationnelle, je m'investis pleinement dans le développement de solutions innovantes et durables au service de la performance technique et organisationnelle."
+    "description": "Professionnelle dynamique, rigoureuse et orientée résultats, je me distingue par ma capacité à piloter des projets complexes tout en assurant la coordination harmonieuse d'équipes pluridisciplinaires. Dotée d'un excellent sens de l'organisation et d'une grande adaptabilité, je combine compétences techniques, leadership et vision stratégique pour atteindre les objectifs fixés.\n\nForte d'une expérience significative dans le pilotage et la supervision de projets d'études techniques (bâtiments, ouvrages d'art, infrastructures), j'ai développé une expertise solide en planification, gestion budgétaire, suivi d'exécution et coordination interdisciplinaire. Ma maîtrise des outils numériques et des méthodes modernes de gestion de projet me permet d'assurer la qualité, le respect des délais et l'optimisation des ressources.\n\nCurieuse, engagée et passionnée par l'excellence opérationnelle, je m'investis pleinement dans le développement de solutions innovantes et durables au service de la performance technique et organisationnelle.",
+     "description1": "Professionnelle ambitieuse, rigoureuse et orientée vers la performance, je me distingue par une capacité éprouvée à piloter des projets d’envergure tout en assurant une coordination harmonieuse d’équipes pluridisciplinaires. Grâce à un sens prononcé de l’organisation, une excellente gestion des priorités et une forte adaptabilité, j’ai développé une approche structurée qui combine exigence, méthode et vision stratégique. Cette approche me permet de conduire efficacement les projets qui me sont confiés, d’anticiper les risques opérationnels et d’assurer une communication fluide avec les différentes parties prenantes.Mon parcours m’a permis d’acquérir une expertise approfondie dans la conception, la planification et le pilotage de projets d’études techniques, couvrant des domaines variés tels que les bâtiments, les ouvrages d’art et les infrastructures. J’ai contribué à des projets complexes nécessitant des compétences pointues en analyse technique, planification stratégique, gestion budgétaire, coordination interdisciplinaire et suivi rigoureux de l’exécution. Mon rôle m’a également amenée à collaborer avec des architectes, ingénieurs, bureaux d’études, prestataires externes, ainsi qu’avec les autorités administratives, ce qui m’a permis de développer un solide sens relationnel et une véritable capacité à fédérer autour d’objectifs communs.",
+     "description2": "Ma maîtrise des outils numériques, des logiciels métiers et des méthodologies contemporaines de gestion de projet (y compris la gestion des risques, la priorisation stratégique, la conception de tableaux de bord, le reporting analytique et l’optimisation des ressources) me permet d’apporter une valeur ajoutée constante à chaque étape du cycle projet. Je veille particulièrement à la conformité technique, à la qualité des livrables, au respect strict des délais et à la rationalisation des coûts, tout en garantissant une approche orientée solutions et résultats.Forte d’une curiosité intellectuelle qui m’incite à apprendre en continu, je m’engage pleinement dans les démarches d’innovation, de digitalisation et de durabilité. Je consacre une grande importance à l’amélioration continue des processus, à la veille technique et sectorielle, ainsi qu’au développement de solutions modernes adaptées aux enjeux opérationnels et environnementaux. J’accorde également une place essentielle à la collaboration, au partage de compétences et à la création d’un environnement professionnel stimulant, favorisant la performance collective et le dépassement de soi.Animée par un profond sens des responsabilités et une volonté constante d’excellence, je m’investis avec détermination dans la réussite des projets que je pilote. Mon objectif est d’apporter une contribution significative, fondée sur l’engagement, la transparence, la rigueur et l’efficacité, afin de soutenir durablement la performance technique, organisationnelle et stratégique des structures que j’accompagne.",
+     "seeMore": "Voir plus ->",
+    "career": {
+      "title": "Parcours",
+      "description": "Découvrez le parcours professionnel et académique de Rama Marie-José DIOP, fondatrice de THETA Ingénierie.",
+      "items": [
+        {
+          "poste": "Directrice",
+          "entreprise": "THETA Ingénierie",
+          "date": "juin 1997 - aujourd’hui",
+          "location": "Région de Dakar, Sénégal · Sur site",
+          "description": "Ingénieure spécialisée en béton armé, passionnée par les défis techniques et les solutions innovantes, je dirige le bureau d’études structures chez THETA Ingénierie. Mon expertise couvre la conception et le calcul de structures complexes, avec un engagement constant pour la sécurité, la durabilité et la performance.Mon rôle consiste à piloter des projets ambitieux, de l’analyse initiale à la réalisation, en assurant la coordination des équipes et la satisfaction des clients. Je m’attache à proposer des solutions techniques sur mesure, respectant les normes, les délais et les budgets."
+        },
+        {
+       
+          "poste": "Chef de projet & Consultante ",
+          "entreprise": "IFC - International Finance Corporation",
+          "date": "2008 - 2024",
+          "location": "Région de Dakar, Sénégal · Sur site",
+          "description": " J’ai également eu l’honneur de collaborer avec l’IFC – International Finance Corporation en tant que Project Manager & Consultante, où j’ai participé à la gestion de projets de rénovation en interne et agi comme consultante structure pour le nouveau siège régional de l’IFC au Sénégal.Je m’investis pleinement pour garantir des structures sûres, durables et conformes aux normes, tout en assurant la qualité, les délais et les coûts."
+        },
+        {
+          "poste": "Consultante",
+          "entreprise": "Adjaye Associates",
+          "date": "2019 - juin 2022",
+          "location": "Région de Dakar, Sénégal · Sur site",
+          "description": "Dans le cadre du projet de construction du bureau régional de l’IFC à Dakar, Sénégal, j’ai été consultant auprès d’AVEC Adjaye Associates pour accompagner et superviser l’ensemble de la mission liée à l’ouvrage délégué.Mes responsabilités incluaient notamment : l’appui stratégique et opérationnel à la maîtrise d’ouvrage, la coordination entre les partenaires techniques et institutionnels, le suivi des aspects juridiques et contractuels liés à la délégation de maîtrise d’ouvrage, le contrôle de la conformité aux normes internationales de l’IFC et aux exigences locales."
+        },
+        {
+          "poste": "Chef de projet senior",
+          "entreprise": "The World Bank Group",
+          "date": "août 2008 - mai 2019",
+          "location": "Région de Dakar, Sénégal · Sur site",
+          "description": "Pilotage de divers projets de rénovationde l’IFC et aux exigences locales"
+        },
+        {
+          "poste": "Ingénieur construction",
+          "entreprise": "Compagnie Sahélienne d’Entreprises",
+          "date": "juil. 1986 - 1988",
+          "location": "Région de Dakar, Sénégal · Sur site",
+          "description": "J'ai travaillé en qualité d'ingénieur travaux, sur des projets à Dakar.projets de rénovationde l’IFC et aux exigences locales."
+        }
+      ]
+    },
+    "education": {
+      "title": "Formations",
+      "description": "Découvrez le parcours académique et les formations de Rama Marie-José DIOP, fondatrice de THETA Ingénierie.",
+      "items": [
+        {
+           "ecole": "CHEC Centre des Hautes Etudes de la Construction",
+           "option": "Option CHEBAP, Béton armé et Précontraint",
+          "date": "1989"
+        },
+        {
+          "ecole": "EPF Engineering School",
+          "option": "Ingénieur Structures génie civil",
+          "date": "1986"
+        }
+        
+      ]
+    }
   },
   "about": {
     "title": "Qui sommes nous ?",
-    "description": "Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.\n\nPartenaires de confiance, nous co-construisons des expériences qui reflètent votre identité, soutiennent votre croissance et renforcent votre présence auprès de vos communautés.",
+    "description": "Nous sommes un bureau d'etude engagé à offrir des solutions techniques fiables, innovantes et durables. Grâce à notre expertise multidisciplinaire, nous accompagnons nos clients à chaque étape : des études de structure (béton armé, charpente métallique, bois) jusqu’au suivi rigoureux des travaux, en passant par la gestion complète de projets.\n\nNous intervenons également dans la décoration intérieure et l’aménagement paysager afin de créer des espaces fonctionnels, esthétiques et adaptés à leurs usages. Notre mission est de garantir la qualité, la sécurité et la performance de chaque ouvrage, tout en respectant les délais et les normes en vigueur.\n\nAvec une équipe qualifiée et passionnée, nous construisons des projets durables qui allient technique, design et excellence.",
     "seeMore": "Voir plus ->"
   },
   "services": {
     "title": "Services & Solutions",
     "seeMore": "Voir plus +",
+    "notFound": "Service introuvable",
     "items": [
       {
-        "title": "Conception de sites web",
-        "description": "Création de sites vitrines modernes, responsives et optimisés pour le référencement naturel."
+        "id": 1,
+        "title": "Études de structure — Béton armé",
+        "description": "Dimensionnement, conformité réglementaire et conception pour la durabilité.",
+        "text" : "Nous réalisons des études structurelles en béton armé garantissant la sécurité, la conformité et la durabilité de vos ouvrages. Nos ingénieurs effectuent des calculs rigoureux, proposent des solutions constructives optimisées et produisent les plans d’exécution nécessaires au bon déroulement du chantier.Nos prestations : ",
+        "list": [
+          "Calculs de stabilité et dimensionnement (poteaux, poutres, dalles, fondations)",
+          "Modélisation numérique et vérification sous charges réelles",
+          "Rédaction des notes de calcul et des plans de ferraillage",
+          "Optimisation économique et technico-économique des solutions constructives",
+          "Suivi technique en phase chantier et réponse aux situations d’exécution"
+        ]
+
       },
       {
-        "title": "Identité visuelle",
-        "description": "Définition de chartes graphiques cohérentes alignées avec les valeurs et objectifs de vos marques."
+        "id": 2,
+        "title": "Études de structure — Charpente métallique",
+        "description": "Conception, rationalisation et contrôle pour structures métalliques performantes.",
+        "text" : "Nous concevons des charpentes métalliques performantes adaptées aux contraintes architecturales et industrielles. De la pré-étude à la note de calcul finale, nous assurons un traitement complet des problématiques de charges, d’assemblages et de reprise en fondation. ",
+        "list": [
+          "Études préliminaires et choix des solutions structurelles (profilés, assemblages)",
+          "Calculs de résistance et de flambement, vérification des assemblages (soudés/boulonnés)",
+          "Rédaction des plans charpentes, détails d’assemblage avec nomenclatures de pièces",
+          "Coordination avec la production en atelier et contrôle qualité des éléments fabriqués ",
+          "Conseils en optimisation coûts/performances et traitement anticorrosion"
+        ]
       },
       {
-        "title": "Stratégie digitale",
-        "description": "Accompagnement sur mesure pour renforcer votre présence en ligne et engager vos audiences."
+        "id": 3,
+        "title": "Études de structure — Bois",
+        "description": "Dimensionnement, conformité réglementaire et conception pour la durabilité.",
+        "list": [
+          "Dimensionnement des éléments bois (poutres, fermes, poteaux, platelages) et choix des essences ",
+          "Modélisation structurale prenant en compte fluage, retrait et interactions hygrothermiques",
+          "Conception des assemblages (tenons, plaques, connecteurs métalliques) et détails constructifs",
+          "Élaboration des plans charpentes et des fiches techniques pour atelier",
+          "Intégration de solutions mixtes (bois-métal, bois-béton) pour optimiser performances et coût"
+        ]
       },
       {
-        "title": "Maintenance & support",
-        "description": "Suivi technique continu, mises à jour et support pour garantir des performances durables."
+        "id": 4,
+        "title": "Suivi de Travaux",
+        "description": "Assurer la qualité, le respect des délais et la conformité technique.",
+        "text" : "Notre service de Suivi de Travaux garantit une gestion rigoureuse de chaque étape de votre projet, depuis l’ouverture du chantier jusqu’à la réception finale. Nous assurons un pilotage opérationnel précis pour garantir la qualité d’exécution, le respect du planning et la maîtrise des coûts.",
+        "list": [
+          "Contrôle hebdomadaire de l’avancement des travaux",
+          "Coordination des équipes et des intervenants techniques",
+          "Vérification de la conformité aux plans, aux normes et aux règles HSE",
+          "Gestion des imprévus et optimisation des solutions",
+          "Reporting régulier pour une visibilité totale du chantier"
+        ],
+        "text2" : "Nous assurons un accompagnement complet, transparent et structuré afin de garantir la réussite de votre projet dans les meilleures conditions. "
       },
       {
-        "title": "Développement d'applications",
-        "description": "Conception et développement d'applications web et mobiles sur mesure pour répondre à vos besoins spécifiques."
+        "id": 5,
+        "title": "Projet Management – Charpentes",
+        "description": "Planification, coordination et maîtrise technique des structures.",
+        "text" : "Nous prenons en charge le management de projets liés aux charpentes métalliques et bois, en intégrant les impératifs techniques, réglementaires et économiques propres au secteur du BTP.",
+        "list": [
+          "Études préliminaires et analyse des besoins",
+          "Coordination entre ingénieurs, architectes et entreprises de charpente",
+          "Planification des phases d’exécution et gestion du planning",
+          "Suivi de fabrication en atelier et contrôle qualité",
+          "Supervision des montages sur site",
+          "Gestion des risques et optimisation structurelle",
+          "Contrôle final et réception des ouvrages"
+        ],
+        "text2" : "Grâce à une approche méthodique et une compréhension approfondie des systèmes de charpente, nous garantissons solidité, précision et durabilité sur chaque projet."
       },
       {
-        "title": "E-commerce & marketplace",
-        "description": "Solutions e-commerce complètes pour vendre vos produits en ligne avec des outils de gestion avancés."
+        "id": 6,
+        "title": "Décoration Intérieure",
+        "description": "Création d'espaces fonctionnels, esthétiques et adaptés à vos usages.",
+        "text" : "Nous concevons et réalisons des projets de décoration intérieure alliant design, ergonomie et identité visuelle. Notre objectif : transformer vos espaces en lieux harmonieux, inspirants et pleinement fonctionnels.",
+        "list": [
+          "Analyse des besoins, usages et contraintes techniques",
+          "Conception de moodboards, plans 2D et rendus 3D",
+          "Sélection de matériaux, textures, couleurs et mobiliers",
+          "Optimisation de l’éclairage et des volumes",
+          "Suivi de la réalisation et coordination des artisans",
+          "Mise en place du décor final"
+        ],
+        "text2" : "Notre approche allie sens artistique et maîtrise technique du bâtiment pour garantir un résultat cohérent, durable et sur-mesure."
       },
       {
-        "title": "Formation & accompagnement",
-        "description": "Sessions de formation et accompagnement pour maîtriser vos outils digitaux et optimiser votre workflow."
-      },
-      {
-        "title": "Consulting digital",
-        "description": "Expertise et conseils stratégiques pour transformer votre activité et tirer parti du numérique."
+        "id": 7,
+        "title": "Aménagements Paysagers",
+        "description": "Conception et réalisation d'espaces extérieurs durables et esthétiques",
+        "text" : "Notre service d’aménagement paysager structure et valorise vos espaces extérieurs en combinant exigences environnementales, fonctionnalité et esthétique.",
+        "list": [
+          "Études d’aménagement et conception de plans paysagers",
+          "Intégration des végétaux, matériaux et mobiliers extérieurs",
+          "Création de jardins, terrasses, allées, zones de détente…",
+          "Mise en place de systèmes d’arrosage et éclairage extérieur",
+          "Suivi et coordination des travaux",
+          "Maintenance et entretien des espaces créés"
+        ],
+        "text2" : "Nous concevons des environnements extérieurs durables, agréables et parfaitement intégrés à leur environnement architectural."
       }
+      
     ]
   },
   "partners": {
@@ -63,19 +194,19 @@
   },
   "values": {
     "title": "Nos Valeurs",
-    "text": "Notre engagement repose sur des valeurs fondamentales qui guident chacune de nos actions : l'excellence dans la qualité de nos services, l'innovation constante pour répondre aux défis du numérique, et la transparence dans nos relations avec nos clients",
+    "text": "Nos valeurs guident notre travail et reflètent notre engagement envers la qualité, la confiance et la satisfaction de nos clients.",
     "blocks": [
       {
-        "title": "Excellence",
-        "description": "Nous nous engageons à fournir des services de la plus haute qualité."
+        "title": "Qualité & Excellence",
+        "description": "Des constructions solides et soignées, avec une attention à chaque détail."
       },
       {
-        "title": "Innovation",
-        "description": "Nous restons à la pointe de la technologie et des tendances digitales."
+        "title": "Fiabilité & Respect des délais",
+        "description": "Tenir nos engagements et livrer vos projets à temps, sans surprise."
       },
       {
-        "title": "Transparence",
-        "description": "Nous privilégions une communication claire et honnête avec nos clients."
+        "title": "Innovation & Durabilité",
+        "description": "Des solutions modernes et éco-responsables pour bâtir l’avenir."
       }
     ]
   },
@@ -84,28 +215,39 @@
     "open": "Ouvrir",
     "photos": [
       {
-        "title": "Projet Architecture",
-        "image": "photo1.png"
+        "title": "HOTELS",
+        "description": "(ONOMO LOME)",
+        "image": "photo1.jpeg"
       },
       {
-        "title": "Construction Moderne",
-        "image": "photo2.png"
+        "title": "HOPITAUX",
+        "description": "Centres de Santé de référence et primaire\nMaternité de Ziguinchor \nHôpital de cardiologie pour enfants a Fann par la Fondation CUOMO",
+        "image": "photo2.jpg"
       },
       {
-        "title": "Design Intérieur",
-        "image": "photo3.png"
+        "title": "BATIMENTS DE BUREAUX",
+        "description": "International Finance Coopération (IFC)",
+        "image": "photo3.jpg"
       },
       {
-        "title": "Infrastructure Urbaine",
-        "image": "photo4.png"
+        "title": "BANQUES",
+        "description": "Agence BCEAO de St-Louis \nDifférentes Agences BICIS dans le Senegal",
+        "image": "photo4.jpg"
       },
       {
-        "title": "Innovation Technique",
-        "image": "photo5.png"
+        "title": "RESIDENCES PRIVEES",
+        "description": "VILLA GUEYE a Ngor Diarama \nVILLA WOURY DIALLO a Diamalaye",
+        "image": "photo7.jpeg"
       },
       {
-        "title": "Excellence Opérationnelle",
-        "image": "photo6.png"
+        "title": "MARCHES à LOME",
+        "description": "Charpente Métallique  et Structure BA",
+        "image": "photo8.jpeg"
+      },
+      {
+        "title": "RENOVATION DE BATIMENTS ANCIENS",
+        "description": "Pour le compte de AMSA",
+        "image": "photo9.png"
       }
     ]
   },
@@ -123,7 +265,65 @@
     "messagePlaceholder": "Décrivez brièvement votre besoin",
     "success": "Votre message a été envoyé avec succès. Nous vous répondrons dans les plus brefs délais.",
     "error": "Une erreur est survenue lors de l'envoi de votre message. Veuillez réessayer.",
-    "emailSubject": "Prise de contact"
+    "emailSubject": "Prise de contact",
+    "formTitles": {
+      "careers": "Carrieres",
+      "partnership": "Devenir partenaire",
+      "contact": "Contact"
+    },
+    "fields": {
+      "lastName": "Nom",
+      "firstName": "Prénom",
+      "email": "Email",
+      "phone": "Numéro de téléphone",
+      "subject": "Objet",
+      "message": "Votre message ici"
+    },
+    "fileLabels": {
+      "cv": "Télécharger votre CV",
+      "motivationLetter": "Télécharger votre Lettre de motivation"
+    },
+    "fileSupport": "Support .jpg, .png and .svg and zip files",
+    "accordions": {
+      "career": "Intéressé par une carrière au sein de THETA Ingénierie",
+      "partnership": "Devenir Partenaire Chez THETA Ingénierie",
+      "other": "Nous Contacter pour divers autres raisons"
+    },
+    "notFound": "Service introuvable",
+    "types": [
+      {
+        "type": "quote",
+        "title": "Demande de devis",
+        "description": "Obtenez un devis personnalisé pour votre projet",
+        "icon": "💼",
+        "placeholder": "Décrivez votre projet et vos besoins pour obtenir un devis personnalisé",
+        "subject": "Demande de devis"
+      },
+      {
+        "type": "support",
+        "title": "Support technique",
+        "description": "Besoin d'aide technique ou d'assistance ?",
+        "icon": "🔧",
+        "placeholder": "Décrivez votre problème ou votre question technique",
+        "subject": "Support technique"
+      },
+      {
+        "type": "partnership",
+        "title": "Partenariat",
+        "description": "Proposer un partenariat ou une collaboration",
+        "icon": "🤝",
+        "placeholder": "Présentez votre projet de partenariat ou de collaboration",
+        "subject": "Proposition de partenariat"
+      },
+      {
+        "type": "other",
+        "title": "Autre demande",
+        "description": "Toute autre demande ou question",
+        "icon": "📧",
+        "placeholder": "Décrivez votre demande ou votre question",
+        "subject": "Autre demande"
+      }
+    ]
   },
   "footer": {
     "description": "Une équipe dédiée à la réussite de vos projets digitaux, alliant expertise technique et sens du service.",
@@ -137,10 +337,8 @@
   },
   "getInvolved": {
     "title": "S'impliquer ?",
-    "donate": "Faire un don",
     "careers": "Carrières",
     "partnership": "Partenariat",
-    "supply": "Approvisionnement",
     "start": "Commencer"
   }
 }
